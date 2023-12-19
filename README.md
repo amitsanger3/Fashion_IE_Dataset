@@ -1,2 +1,43 @@
-# Fashion_IE_Dataset
-The "Fashion IE Tweets Dataset" includes fashion and non-fashion tweets, extracted fashion data, translations of non-English tweets, and hashtags, serving as a resource for fashion and social media research.
+
+# Fashion IE Tweets Dataset
+
+The "Fashion IE Tweets Dataset" is a unique collection specifically curated to encompass a diverse array of tweets, integrating both fashion-related and non-fashion-related content. This dataset stands out due to its inclusion of extracted fashion information, meticulously culled from the tweets. Significantly, it caters to a multilingual audience by featuring translated versions of non-English tweets, broadening its accessibility and utility. Additionally, the dataset is enriched with hashtag information, offering deeper insights and supplementary context to each tweet. This compilation serves as a valuable resource for research and analysis in the domains of fashion, social media trends, and linguistic studies.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Cite 
+
+If you are using this dataset, please Cite us.
+
+```bash
+@misc{fashion_tweets2023,
+  author = {Amit Kumar Sanger},
+  title = Fashion IE Tweets Dataset,
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://drive.google.com/file/d/1meQ9FK8UNdZyYqA2NiDY7TZBHQH8YhaE/view?usp=sharing}},
+}
+```
+## Authors
+
+- [@amitsanger3](https://www.github.com/amitsanger3)
+
+
+## Structure of the dataset
+
+Fashion IE dataset are in csv file. You can downlad this data from the [google drive](https://drive.google.com/file/d/1meQ9FK8UNdZyYqA2NiDY7TZBHQH8YhaE/view?usp=sharing).
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Add labels on unlabbeled data or add information for extraction purposes.
+
+Please adhere to this project's `code of conduct`.
+
