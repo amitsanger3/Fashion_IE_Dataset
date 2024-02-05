@@ -14,13 +14,9 @@ The "Fashion IE Tweets Dataset" is a unique collection specifically curated to e
 If you are using this dataset, please Cite us.
 
 ```bash
-@misc{fashion_tweets2023,
-  author = {Amit Kumar Sanger},
-  title = Fashion IE Tweets Dataset,
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://drive.google.com/file/d/1meQ9FK8UNdZyYqA2NiDY7TZBHQH8YhaE/view?usp=sharing}},
+@article{sangeradvancing,
+  title={ADVANCING FASHION INFORMATION EXTRACTION: LEVERAGING QUESTION-ANSWER STYLED TWEET DATASETS WITH TEXT GENERATION MODELS},
+  author={Sanger, Amit Kumar}
 }
 ```
 ## Authors
